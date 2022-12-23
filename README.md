@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.flexclip.com/share/1836597584816606a89ee81934fc14d2e28131d.html)
+- ### [How To Install osTicket with Prerequisites](https://www.flexclip.com/share/1836597584816606a89ee81934fc14d2e28131d.html)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,11 +22,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install/Enable IIS
+- Install Web Platform Installer and download mySQL 5.5 and appropriate php files up to 7.3 (x86)
+- Download osTicket zip files
+- Download HeidiSQL
 
 <h2>Installation Steps</h2>
 
