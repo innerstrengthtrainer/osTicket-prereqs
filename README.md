@@ -6,7 +6,7 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Full Video Demonstration</h2>
 
 - ### [How To Install osTicket with Prerequisites](https://www.flexclip.com/share/1836597584816606a89ee81934fc14d2e28131d.html)
 
@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download osTicket zip files
 - Download HeidiSQL
 
-<h2>Installation Steps</h2>
+<h2>Abbreviated Installation Steps</h2>
 
 <p>
  <img src="https://user-images.githubusercontent.com/47663923/209570627-6a50ce8e-dd73-46eb-a5a5-2f3a127ea318.png" height="80%" width="80%" alt="Web Platform Installing"/>
